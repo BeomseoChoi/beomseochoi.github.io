@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://beomseochoi.github.io/blog/sitemap.xml
+Sitemap: https://beomseochoi.github.io/sitemap.xml
