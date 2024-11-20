@@ -1,7 +1,7 @@
 ---
 layout: post
-title: CES2024
-date: 2024-02-18 00:00:00+0900
+title: Exhibited at CES 2024
+date: 2024-01-18 00:00:00+0900
 inline: false
 related_posts: false
 ---
