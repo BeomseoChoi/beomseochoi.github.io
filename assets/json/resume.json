@@ -1,6 +1,6 @@
 {
     "basics": {
-        "name": "Beomseo CHoi",
+        "name": "Beomseo Choi",
         "label": "",
         "image": "",
         "email": "beomseo0707@gmail.com",
@@ -23,6 +23,18 @@
         ]
     },
     "work": [
+        {
+            "name": "All For Land Inc.",
+            "location": "Daejeon, Korea",
+            "position": "Web Developer Intern",
+            "url": "",
+            "startDate": "2024-08-19",
+            "endDate": "2024-11-29",
+            "summary": "Contributed to GIS module development, including SHP, DXF, DWG file conversion and spatial data visualization using OpenLayers.",
+            "highlights": [
+                "Implemented file conversion between SHP, DXF, and DWG formats."
+            ]
+        },
         {
             "name": "TR Inc.",
             "location": "Daejeon, Korea",
