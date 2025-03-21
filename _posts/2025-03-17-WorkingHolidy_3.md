@@ -5,7 +5,7 @@ date: 2025-03-17 18:48:00+0900
 description: 
 tags: formatting links
 disqus_comments: true
-categories: Working Holiday
+categories: working_holiday
 ---
 
 ## 비자가 승인되기 까지

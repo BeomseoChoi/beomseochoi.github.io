@@ -5,7 +5,7 @@ date: 2024-12-09 23:20:00+0900
 description: 
 tags: formatting links
 disqus_comments: true
-categories: Working Holiday
+categories: working_holiday
 ---
 
 ## 타지에 간다는 것

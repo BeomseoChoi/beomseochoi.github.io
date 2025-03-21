@@ -5,7 +5,7 @@ date: 2024-12-08 13:51:00+0900
 description: 
 tags: formatting links
 disqus_comments: true
-categories: Working Holiday
+categories: working_holiday
 ---
 
 ## 워킹홀리데이, 이유와 목표
